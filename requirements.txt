@@ -1,0 +1,6 @@
+discord.py
+python-dotenv
+google-generativeai
+yt-dlp
+youtube-dl
+pynacl
